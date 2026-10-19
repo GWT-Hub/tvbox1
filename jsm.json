@@ -18,7 +18,6 @@
     
     {"key": "Didahd","name": "嘀嗒影视","type": 3,"api": "./py/Didahd.py","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1},
 
-
     {"key": "一起影视","name": "一起 • APP","type": 3,"api": "csp_AppYQK","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "番茄影视","name": "番茄 • APP","type": 3,"api": "csp_AppFQ","searchable": 1,"quickSearch": 1,"filterable": 0},
  
