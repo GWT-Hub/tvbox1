@@ -20,7 +20,7 @@ var rule = {
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat"
     },
     timeout: 5000,
-    class_name: '最新古装片&最新国产剧&热播|剧集&热播电影&热播综艺&热播动漫&电影筛选&电视剧筛选',
+    class_name: '最新古装片&最新国产剧&热播-剧集&热播-电影&热播-综艺&热播-动漫&电影筛选&电视剧筛选',
     class_url: 'tv_guzhuang&tv_domestic&tv_hot&hot_gaia&show_hot&tv_animation&movie&tv',
     
     filter: { 
