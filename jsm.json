@@ -5,8 +5,9 @@
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
 
-  
-    {"key": "drpy_js_豆瓣","name": "搜索 • 1豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": {"host": "http://124.221.3.182:19987/app/bn","versionName": "1.2.0","name": "剧圈圈","package": "com.qingtangxiaozhuan.xyz","buildNumber": "2002","buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"},"./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "剧圈99","name": "Ok yings ","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0,{"host": "http://124.221.3.182:19987/app/bn","versionName": "1.2.0","name": "剧圈圈","package": "com.qingtangxiaozhuan.xyz","buildNumber": "2002","buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}},
+ 
+    {"key": "drpy_js_豆瓣","name": "搜索 • 豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
 
 
